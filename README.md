@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<p align="left"> <a href="https://twitter.com/msameersheikh__" target="blank"><img src="https://img.shields.io/twitter/follow/msameersheikh__?logo=twitter&style=for-the-badge" alt="msameersheikh__" /></a> </p>
-
 - 📫 How to reach me **ms4492222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
