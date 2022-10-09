@@ -1,6 +1,6 @@
 ![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
 <h1 align="center">Hi 👋, I'm Mohammad Sameer</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 - 📫 How to reach me **ms4492222@gmail.com**
 
