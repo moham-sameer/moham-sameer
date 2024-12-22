@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/msameersheikh__" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/584px-Twitter-logo.svg.png" alt="msameersheikh__" height="30" width="40" /></a>
+<a href="https://twitter.com/msameersheikh__" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="msameersheikh__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-sameer-71396621b/" target="_blank"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" alt="mohammad sameer" height="40" width="100" /></a>
 
 </p>
